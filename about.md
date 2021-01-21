@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+随便写写
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+学习使用Github中
 
 ### Contact me
 
